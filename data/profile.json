@@ -12,6 +12,14 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/NeyLemes/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
+      },
+      {
         "name": "Phyton",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/python.png"
       },
@@ -19,10 +27,7 @@
         "name": "Github",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
       },
-      {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
-      },
+     
       {
         "name": "VScode",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/vscode.png"
